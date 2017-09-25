@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: nifi-simple-processors
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: at186045
+Specification-Vendor: Apache NiFi Project
+Specification-Title: nifi-simple-processors
+Implementation-Vendor-Id: cicd
+Build-Jdk: 1.8.0_144
+Specification-Version: 0.0.1-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Apache NiFi Project
+
