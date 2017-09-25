@@ -48,7 +48,7 @@ import java.util.Set;
 public class MyProcessor extends AbstractProcessor {
 
     public static final PropertyDescriptor MY_PROPERTY = new PropertyDescriptor
-            .Builder().name("MY_PROPERTY")
+            .Builder().name("NewProp")
             .displayName("My property")
             .description("Example Property")
             .required(true)
