@@ -96,7 +96,7 @@ public class MyProcessor extends AbstractProcessor {
         if ( flowFile == null ) {
             return;
         }
-        .
+        
         // TODO implement
     }
 }
